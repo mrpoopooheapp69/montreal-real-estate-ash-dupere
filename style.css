@@ -262,6 +262,10 @@ margin: 0 auto;
   blockquote {}
   
   h3+p {}
+
+  h4 {
+    margin: 2rem 0 0.5rem 0rem;
+  }
   
   section>h2 {}
   
